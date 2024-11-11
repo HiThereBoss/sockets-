@@ -3,6 +3,13 @@ The following is the source code for my solo-project, which is a client-server b
 There needs to be a server running for the app to work.
 Clients can join from anywhere around the world!
 
+[Interface/Application program](interface.py)
+[Server program](server.py)
+
+The [data](data.txt) file holds local client data.
+The [server data](server_data.txt) file should be located in the same directory as the server file, and stores server data (such as message history).
+Other directories include (outdated) compiled .exe applications that were meant for distribution to testers.
+
 ## Screenshots
 #### Local client:
 
