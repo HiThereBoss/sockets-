@@ -12,3 +12,8 @@ Clients can join from anywhere around the world!
 #### Client from another part of the world:
 
 ![image](https://github.com/user-attachments/assets/469236e0-70e7-4b1c-a5fc-780c93c36308)
+
+#### Making a username
+The following window will pop-up for first-time users without a username.
+
+![image](https://github.com/user-attachments/assets/4c0c93f7-1856-400a-bfe5-9874aa44dfaa)
